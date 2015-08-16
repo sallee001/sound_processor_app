@@ -1,0 +1,8 @@
+*.pyc
+*/*.pyc
+*/*/*.pyc
+sound_frontend/node_modules/*
+sound_frontend/bower_components/*
+.idea/*
+notebooks/.ipynb_checkpoints/
+data/*
